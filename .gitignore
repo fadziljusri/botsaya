@@ -102,5 +102,3 @@ ENV/
 
 node_modules/
 bower_components/
-
-settings_real.py
